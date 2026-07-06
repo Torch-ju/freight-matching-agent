@@ -27,6 +27,5 @@ assets/
 
 - Do not upload private competition data.
 - Do not upload internal project reports unless fully desensitized.
-- Do not upload personal phone number screenshots.
+- Do not upload screenshots containing private contact details.
 - Use screenshots that demonstrate workflow, not confidential data.
-
