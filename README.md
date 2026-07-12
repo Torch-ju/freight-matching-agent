@@ -14,14 +14,6 @@ This repository is not a raw code dump and not a production-system claim. It is 
 
 Official competition page: https://tianchi.aliyun.com/competition/entrance/532467/information
 
-## 中文快读
-
-这个项目建议面试官这样理解：它不是一个“炫技 demo”，而是我把物流业务理解、运筹约束意识和 AI Agent 工作流设计结合起来的一次公开安全案例。
-
-- **业务问题：**货运平台中的连续找货不是一次性问答，而是一个持续变化的信息匹配与决策支持问题。
-- **我的包装重点：**展示如何把用户目标、运力/货源约束、候选方案比较、结果解释和人工确认拆成 Agent 可执行的流程。
-- **可公开结果：**满帮相关 Agentic AI 比赛 Top 24 / 963，入围奖。
-
 ## Why This Problem Matters
 
 Continuous freight-searching is a repeated decision problem under changing supply-demand information. A useful assistant should not only chat with users; it should help structure the decision process:
