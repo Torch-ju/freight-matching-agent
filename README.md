@@ -21,8 +21,6 @@ Official competition page: https://tianchi.aliyun.com/competition/entrance/53246
 - **业务问题：**货运平台中的连续找货不是一次性问答，而是一个持续变化的信息匹配与决策支持问题。
 - **我的包装重点：**展示如何把用户目标、运力/货源约束、候选方案比较、结果解释和人工确认拆成 Agent 可执行的流程。
 - **可公开结果：**满帮相关 Agentic AI 比赛 Top 24 / 963，入围奖。
-- **不夸大的边界：**当前公开版本只写脱敏事实和方法框架，不声称生产落地，不公开真实数据、后台截图、服务凭证或未确认技术栈。
-- **面试价值：**这个项目证明我不是只会写简历关键词，而是在尝试把“物流场景 + 运筹方法 + AI Agent”组织成面试官可以追问、验证和讨论的能力证据。
 
 ## Why This Problem Matters
 
@@ -107,27 +105,8 @@ This repository will not include:
 - service credentials or model-service access details;
 - claims that the prototype was a production system unless evidence is later approved.
 
-## Resume Summary
 
-中文简历保守版：
 
-> 围绕连续找货场景，参与设计包含任务拆解、状态跟踪、工具调用和结果校验的 Agentic AI 原型，在满帮相关比赛中获得 24/963、入围奖。
 
-英文简历保守版：
-
-> Designed a public-safe case study for an Agentic AI prototype in continuous freight-searching, focusing on task decomposition, state tracking, tool-use workflow, result validation, and human-in-the-loop logistics decision support; finalist award, Top 24 / 963.
-
-## What Still Needs Confirmation
-
-- My exact responsibility split across requirements, prompt, workflow, frontend/backend, data, and presentation.
-- Which demo screenshots can be publicly shown.
-- Which model/platform/tool details are safe to disclose.
-- Whether ranking proof can be added as an image.
-
-## Roadmap
-
-- [ ] Add sanitized workflow diagram.
-- [ ] Add public-safe demo screenshots.
-- [ ] Add ranking proof screenshot.
 - [ ] Add confirmed tech stack after disclosure review.
 - [ ] Add a short Chinese case-study section for recruiters.
